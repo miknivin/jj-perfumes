@@ -133,7 +133,7 @@ export default function TermsConditions() {
                 <h2 className="text-2xl font-bold text-black mb-4">12. Contacting Us</h2>
                 <p>If you have any questions about these Terms and Conditions, please contact us at:</p>
                 <p className="mt-3">
-                  <strong>Email:</strong> rjaydev@jjperfumes.com
+                  <strong>Email:</strong> rjaydev@jjperfumesinternational.com
                 </p>
               </div>
             </div>
@@ -213,7 +213,7 @@ export default function TermsConditions() {
             className="flex flex-col md:flex-row justify-between items-start md:items-center gap-4 sm:gap-6 pt-6 sm:pt-8 border-t border-gray-300"
           >
             <p className="text-base sm:text-m lg:text-l text-black/75 tracking-wide">
-              rjaydev@jjperfumes.com
+           rjaydev@jjperfumesinternational.com
             </p>
             <p className="text-base sm:text-m lg:text-l text-black/75 tracking-wide">
               rjaydev@gmail.com

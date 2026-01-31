@@ -99,7 +99,7 @@ export default function ReturnPolicy() {
                 <p>For any queries, you can reach us at:</p>
                 <div className="mt-3 space-y-2">
                   <p><strong>Phone:</strong> +919645898599</p>
-                  <p><strong>Email:</strong> rjaydev@jjperfumes.com</p>
+                  <p><strong>Email:</strong> rjaydev@jjperfumesinternational.com</p>
                 </div>
               </div>
             </div>
@@ -179,7 +179,7 @@ export default function ReturnPolicy() {
             className="flex flex-col md:flex-row justify-between items-start md:items-center gap-4 sm:gap-6 pt-6 sm:pt-8 border-t border-gray-300"
           >
             <p className="text-base sm:text-m lg:text-l text-black/75 tracking-wide">
-              rjaydev@jjperfumes.com
+              rjaydev@jjperfumesinternational.com
             </p>
             <p className="text-base sm:text-m lg:text-l text-black/75 tracking-wide">
               rjaydev@gmail.com
